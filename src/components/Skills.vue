@@ -40,7 +40,7 @@ export default {
             this.skills.push({skill: this.skill});
             this.skill = '';
           } else {
-            //console.log('Not valid');
+            console.log('Not valid');
           }
         })
       },
